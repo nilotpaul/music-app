@@ -37,10 +37,4 @@ export const music = [
     }
 ]
 
-    const playandpause = [
-        {
-            
-        }
-    ]
-
 export default { music }
