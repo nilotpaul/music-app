@@ -95,8 +95,7 @@ const App = () => {
       <div className="controls">
       <button onClick={prevsong}><FaStepBackward className="back" /></button>
       <button onClick={playpause}>{ play ? <FaPause className="pause" /> : <FaPlay className="play" /> }</button>
-      <button onClick={nextsong}><FaStepForward className="next" /></button>    
-      <a href="https://drive.google.com/file/d/1dMVvQtkKsblqI4UAFHdCkBRFH1I2vvEJ/view?usp=drivesdk">download</a>
+      <button onClick={nextsong}><FaStepForward className="next" /></button>
       </div>
       </div>
       </div>
